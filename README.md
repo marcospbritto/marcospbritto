@@ -46,6 +46,6 @@ of the year, hoping to become a Fullstack Dev.
 </span> -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcospbritto&show_icons=true&theme=tokyonight)
-[![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospbritto&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/arthurspk/)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&layout=compact&theme=tokyonight) -->
+[![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospbritto&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/marcospbritto/)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospbritto&layout=compact&theme=tokyonight) -->
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
