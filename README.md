@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h4 align="center">
  
-https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif
+![200w_s](https://user-images.githubusercontent.com/103448161/163137963-ac1c6dbf-e55c-4922-824a-27dc90903493.gif)
 
 <hr>
 
