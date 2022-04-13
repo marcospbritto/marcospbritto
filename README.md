@@ -24,13 +24,15 @@ https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif
 
 <h3 align="center">  <br>
 
-Hi there 👋 <br> I'm Marcos, I'm from 🇧🇷 :brazil:
+Hi there 👋 <br> I'm Marcos, I'm from :brazil:
 <br>
+ </h3>
+ <h5>
 ```
-I've recently started to study WebDeveloment by myself, and I hope to get into an University by the and 
-of the year, hoping to become a Fullstack Dev.
+I've recently started to study WebDeveloment by myself, and I hope to get into an 
+University by the and of the year, hoping to become a Fullstack Dev.
 ```
-
+ </h5>
 ##Programming language that I'm currently studying 📝 
  - HTML
  - CSS
@@ -39,13 +41,3 @@ of the year, hoping to become a Fullstack Dev.
 ## Future projects that i hope to make :desktop_computer: 
 - A Cheerleading website for my team
 - A Personal anime tracking website or App
-
-## My GitHub Info
-  <!-- <span style="height ">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcospbritto&show_icons=true&theme=tokyonight)
-</span> -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcospbritto&show_icons=true&theme=tokyonight)
-[![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospbritto&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/marcospbritto/)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcospbritto&layout=compact&theme=tokyonight) -->
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
