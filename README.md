@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<h4 align="center" width="auto">
+<h4 align="center">
  
-![200w_s](https://user-images.githubusercontent.com/103448161/163137963-ac1c6dbf-e55c-4922-824a-27dc90903493.gif)
+![gif](https://user-images.githubusercontent.com/103448161/163139295-a20e0d24-8c16-42f1-84d1-64df3e0145ba.gif)
+
 
 <hr>
 
