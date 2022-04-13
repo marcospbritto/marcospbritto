@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<iframe src="https://giphy.com/embed/KxbHmvL3MGcctzlfdX" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coelho-fabiocoelho-fpc1987-KxbHmvL3MGcctzlfdX">via GIPHY</a></p>
 
 
 <h4 align="center">
  
-<iframe src="https://giphy.com/embed/KxbHmvL3MGcctzlfdX" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coelho-fabiocoelho-fpc1987-KxbHmvL3MGcctzlfdX">via GIPHY</a></p>
+https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif
 
 <hr>
 
