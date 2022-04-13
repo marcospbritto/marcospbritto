@@ -27,12 +27,12 @@ https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif
 Hi there 👋 <br> I'm Marcos, I'm from :brazil:
 <br>
  </h3>
- <h5>
+
 ```
 I've recently started to study WebDeveloment by myself, and I hope to get into an 
 University by the and of the year, hoping to become a Fullstack Dev.
 ```
- </h5>
+
 ##Programming language that I'm currently studying 📝 
  - HTML
  - CSS
