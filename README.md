@@ -29,7 +29,7 @@ Hi there 👋 <br> I'm Marcos, I'm from :brazil:
  </h3>
 
 ```
-I've recently started to study WebDeveloment by myself, and I hope to get into an 
+I've recently started to study WebDeveloment by myself, and I'm studying to get into an 
 University by the and of the year, hoping to become a Fullstack Dev.
 ```
 
