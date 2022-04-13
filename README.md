@@ -33,7 +33,7 @@ I've recently started to study WebDeveloment by myself, and I hope to get into a
 University by the and of the year, hoping to become a Fullstack Dev.
 ```
 
-##Programming language that I'm currently studying 📝 
+## Programming language that I'm currently studying 📝 
  - HTML
  - CSS
  - JavaScript
