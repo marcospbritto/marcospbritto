@@ -41,3 +41,5 @@ University by the and of the year, hoping to become a Fullstack Dev.
 ## Future projects that i hope to make :desktop_computer: 
 - A Cheerleading website for my team
 - A Personal anime tracking website or App
+
+## You can contact me over here📫
