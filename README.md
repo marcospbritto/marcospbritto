@@ -43,3 +43,4 @@ University by the and of the year, hoping to become a Fullstack Dev.
 - A Personal anime tracking website or App
 
 ## You can contact me over here📫
+<a href="https://www.instagram.com/marcospbritto/">Instagram</a>
